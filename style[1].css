@@ -1,0 +1,32 @@
+body {
+  background-color: orchid;
+}
+
+input,
+button {
+  padding: 5px;
+}
+
+input {
+  width: 150px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.item, 
+.itemCount{
+  display: inline-block;
+}
+
+.item {
+  font-size: 24px;
+  margin: 5px 0 5px 15px;
+}
+
+.itemCount {
+  width: 50px;
+  text-align: right;
+  margin-right: 30px;
+}
